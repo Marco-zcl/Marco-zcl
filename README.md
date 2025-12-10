@@ -38,11 +38,23 @@
 
 ---
 
-### 📊 GitHub 数据
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2tina&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=2tina&theme=tokyonight" />
-</p>
+<div align="center">
+
+
+<!-- Activity Graph - More Reliable -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=korbirayen&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- GitHub Metrics - Most Reliable -->
+![Metrics](https://metrics.lecoq.io/korbirayen?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FTunis)
+
+<!-- Streak Stats - Alternative Domain -->
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=korbirayen&theme=react&hide_border=true)](https://git.io/streak-stats)
+---
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=korbirayen&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
